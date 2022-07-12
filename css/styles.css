@@ -980,14 +980,11 @@ textarea {
 }
 .button-submit:hover,
 .button-submit:focus {
-  background-color: var(--accent-collor);
+  background-color: #188ce8;
   transition: var(--animation);
 }
 
-.f-icon {
-  fill: #ffffff;
-}
-.f-submit {
+.fot-submit {
   fill: #ffffff;
   margin-left: 10px;
 }
